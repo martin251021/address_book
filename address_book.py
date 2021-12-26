@@ -70,10 +70,6 @@ class MainWindow(QDialog):
         sortByIDAction.triggered.connect(lambda: self.sort(ID))
         self.ui.add_button.setFocusPolicy(Qt.NoFocus)
 
-
-
-
-
         self.view.show()
 
     def add_contact(self):
