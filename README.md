@@ -1,6 +1,6 @@
 ## Introduction
 
-This is simple Address Book application created via Python and Qt Designer/PyQt5. 
+This is simple Address Book application created via Python and Qt Designer/PyQt5. Upon launching the application and filling the arrays, data is stored in the created SQLite database.
 
 ## Requirements
 * Python 3
